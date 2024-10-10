@@ -17,10 +17,10 @@ I am a developer with 3 years in programming, focused on data analysis. I am pas
 
 ## 🚀 Technical Skills
 
-- **Languages**: Python, JavaScript, TypeScript, C#, SQL, HTML, CSS
-- **Tools**: Git, Playwright, Godot, Unity
-- **Frameworks**: Flask, Express.js, Electron
-- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Languages**: Python, JavaScript, TypeScript, SQL, C#, GDScript, HTML, CSS
+- **Tools**: Git, Google Cloud Platform, Playwright, Godot, Unity
+- **Frameworks**: Flask, Express.js, Electron, Discordpy
+- **Data Analysis**: MongoDB, Pandas, NumPy, Matplotlib, Pillow, BeaultifulSoup
 - **Others**: OCR, Web Scraping, Bot Development
 
 ---

@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Diego Lima!
 
-<!--
-**GMDiegoLima/GMDiegoLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer | Data Analyst | Full Stack | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I am a developer with 3 years in programming, focused on data analysis. I am passionate about turning ideas into tech solutions that create real-world impact.
+
+- 🔭 I’m currently working on: Koyn (koyn.online)
+- 🌱 Learning more about: C# for game development
+- 👯 Looking to collaborate on: Professional projects
+- 💬 Ask me about: Data Analysis or common doubts about technology
+
+---
+
+## 🚀 Technical Skills
+
+- **Languages**: Python, JavaScript, TypeScript, C#, SQL, HTML, CSS
+- **Tools**: Git, Playwright, Godot, Unity
+- **Frameworks**: Flask, Express.js, Electron
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Others**: OCR, Web Scraping, Bot Development
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMDiegoLima&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/3diego-lima/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/GMDiegoLima) 
+[![Email](https://img.shields.io/badge/Email-blue?logo=mailboxdotorg)](mailto:diegosalima@outlook.com)
+
+---
+
+## 📂 Featured Projects
+
+- [PDF Data Extraction](https://github.com/GMDiegoLima/pdf-data-extraction): Extract text from images embedded in PDF and save the output as a new PDF or DOCX file.
+- [Product Web Scraper](https://github.com/GMDiegoLima/product-web-scraper): Product Web Scraper is a tool to extract product data from e-commerce websites.
+- [Otter Destruction Game](https://github.com/GMDiegoLima/PixelGameJam): This project is a game done for the Pixel Game Jam 24 using Godot 4.2
+
+---
+
+**Thanks for visiting my profile! 😊**

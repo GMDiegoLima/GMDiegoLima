@@ -11,7 +11,7 @@ I am a developer with 3 years in programming, focused on data analysis. I am pas
 - 🔭 I’m currently working on: Koyn (koyn.online)
 - 🌱 Learning more about: C# for game development
 - 👯 Looking to collaborate on: Professional projects
-- 💬 Ask me about: Data Analysis or common doubts about technology
+- 💬 Ask me about: Anything about Data Analysis
 
 ---
 

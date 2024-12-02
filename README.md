@@ -46,6 +46,7 @@ I am a developer with 3 years in programming, focused on data analysis. I am pas
 
 - [PDF Data Extraction](https://github.com/GMDiegoLima/pdf-data-extraction): Extract text from images embedded in PDF and save the output as a new PDF or DOCX file.
 - [Product Web Scraper](https://github.com/GMDiegoLima/product-web-scraper): Product Web Scraper is a tool to extract product data from e-commerce websites.
+- [Mystery From North Game](https://github.com/GMDiegoLima/GameOff-GameJam-24): A game done for the Github GameOff24 Gamejam using Unity 6
 - [Otter Destruction Game](https://github.com/GMDiegoLima/PixelGameJam): This project is a game done for the Pixel Game Jam 24 using Godot 4.2
 
 ---

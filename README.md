@@ -8,7 +8,7 @@
 
 I am a developer with 3 years in programming, focused on data analysis. I am passionate about turning ideas into tech solutions that create real-world impact.
 
-- 🔭 I’m currently working on: Koyn (koyn.online)
+- 🔭 I’m currently working on: Influencer Lens (soon)
 - 🌱 Learning more about: C# for game development
 - 👯 Looking to collaborate on: Professional projects
 - 💬 Ask me about: Anything about Data Analysis
@@ -19,7 +19,7 @@ I am a developer with 3 years in programming, focused on data analysis. I am pas
 
 - **Languages**: Python, JavaScript, TypeScript, SQL, C#, GDScript, HTML, CSS
 - **Tools**: Git, Google Cloud Platform, Playwright, Godot, Unity
-- **Frameworks**: Flask, Express.js, Electron, Discordpy
+- **Frameworks**: Flask, Node.js, Express.js, Electron, Discordpy
 - **Data Analysis**: MongoDB, Pandas, NumPy, Matplotlib, Pillow, BeaultifulSoup
 - **Others**: OCR, Web Scraping, Bot Development
 

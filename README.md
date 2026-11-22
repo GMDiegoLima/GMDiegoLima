@@ -27,8 +27,6 @@ I am a developer with 4 years of programming experience, focused on data analysi
 
 ## 📈 GitHub Stats
 
-![Profile Details](https://raw.githubusercontent.com/GMDiegoLima/GMDiegoLima/main/profile-summary-card-output/dracula/0-profile-details.svg)
-
 <p align="left">
   <img width="49%" src="https://raw.githubusercontent.com/GMDiegoLima/GMDiegoLima/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" />
   <img width="49%" src="https://raw.githubusercontent.com/GMDiegoLima/GMDiegoLima/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />

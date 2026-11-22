@@ -6,10 +6,10 @@
 
 ## 🌟 About Me
 
-I am a developer with 3 years in programming, focused on data analysis. I am passionate about turning ideas into tech solutions that create real-world impact.
+I am a developer with 4 years of programming experience, focused on data analysis but with a past on the game development. I am passionate about turning ideas into tech solutions that create real-world impact.
 
 - 🔭 I’m currently working on: Influencer Lens (soon)
-- 🌱 Learning more about: C# for game development
+- 🌱 Learning more about: R and Power BI
 - 👯 Looking to collaborate on: Professional projects
 - 💬 Ask me about: Anything about Data Analysis
 
@@ -17,9 +17,9 @@ I am a developer with 3 years in programming, focused on data analysis. I am pas
 
 ## 🚀 Technical Skills
 
-- **Languages**: Python, JavaScript, TypeScript, SQL, C#, GDScript, HTML, CSS
-- **Tools**: Git, Google Cloud Platform, Playwright, Godot, Unity
-- **Frameworks**: Flask, Node.js, Express.js, Electron, Discordpy
+- **Languages**: Python, R, JavaScript, SQL, C#, GDScript, HTML, CSS
+- **Tools**: Git, Google Cloud Platform, Godot, Unity
+- **Frameworks**: Flask, Django, Express.js, R Shiny, Discordpy
 - **Data Analysis**: MongoDB, Pandas, NumPy, Matplotlib, Pillow, BeaultifulSoup
 - **Others**: OCR, Web Scraping, Bot Development
 

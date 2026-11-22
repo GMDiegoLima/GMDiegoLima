@@ -8,7 +8,7 @@
 
 I am a developer with 4 years of programming experience, focused on data analysis but with a past on the game development. I am passionate about turning ideas into tech solutions that create real-world impact.
 
-- 🔭 I’m currently working on: Influencer Lens (soon)
+- 🔭 I’m currently working on: Arcane Tactics (soon)
 - 🌱 Learning more about: R and Power BI
 - 👯 Looking to collaborate on: Professional projects
 - 💬 Ask me about: Anything about Data Analysis

@@ -28,7 +28,7 @@ I am a developer with 4 years of programming experience, focused on data analysi
 ## 📈 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMDiegoLima&layout=compact&theme=radical" />
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GMDiegoLima&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=GMDiegoLima&layout=compact&theme=radical&exclude_repo=GameOff-GameJam-24)" />
 </p>
 
 ---

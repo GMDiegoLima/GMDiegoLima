@@ -36,8 +36,9 @@ I am a developer with 4 years of programming experience, focused on data analysi
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/3diego-lima/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/GMDiegoLima) 
 [![Email](https://img.shields.io/badge/Email-blue?logo=mailboxdotorg)](mailto:diegosalima@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://diegolima.vercel.app)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://devlima.itch.io)
 [![Download Resume](https://img.shields.io/badge/Resume-black?logo=readdotcv)](https://gmdiegolima.github.io/portfolio/Diego%20Lima%20-%20Resume.pdf)
 
 ---
